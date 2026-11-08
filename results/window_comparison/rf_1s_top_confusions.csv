@@ -1,0 +1,13 @@
+true,predicted,wrong_windows
+shuffling,standing,1287
+shuffling,walking,1250
+standing,shuffling,1001
+walking,shuffling,999
+stairs_down,walking,853
+cycling_sit,walking,840
+cycling_sit,stairs_up,814
+stairs_up,walking,731
+standing,walking,390
+walking,standing,332
+cycling_sit_inactive,cycling_sit,299
+cycling_stand,cycling_sit,218

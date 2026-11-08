@@ -1,0 +1,82 @@
+{
+  "split": {
+    "test": [
+      "S008",
+      "S009",
+      "S010",
+      "S012"
+    ],
+    "validation": [
+      "S013",
+      "S014",
+      "S015",
+      "S016"
+    ],
+    "train": [
+      "S017",
+      "S018",
+      "S019",
+      "S020",
+      "S021",
+      "S022",
+      "S023",
+      "S024",
+      "S025",
+      "S026",
+      "S027",
+      "S028",
+      "S029"
+    ]
+  },
+  "parameters": {
+    "objective": "multi:softprob",
+    "base_score": null,
+    "booster": null,
+    "colsample_bylevel": null,
+    "colsample_bynode": null,
+    "colsample_bytree": 0.8,
+    "device": null,
+    "eval_metric": "mlogloss",
+    "gamma": null,
+    "grow_policy": null,
+    "interaction_constraints": null,
+    "learning_rate": 0.1,
+    "max_bin": null,
+    "max_cat_threshold": null,
+    "max_cat_to_onehot": null,
+    "max_delta_step": null,
+    "max_depth": 4,
+    "max_leaves": null,
+    "min_child_weight": null,
+    "monotone_constraints": null,
+    "multi_strategy": null,
+    "n_jobs": 2,
+    "num_parallel_tree": null,
+    "random_state": 42,
+    "reg_alpha": null,
+    "reg_lambda": null,
+    "sampling_method": null,
+    "scale_pos_weight": null,
+    "subsample": 0.8,
+    "tree_method": "hist",
+    "validate_parameters": null,
+    "verbosity": null,
+    "num_class": 12
+  },
+  "rounds": 150,
+  "labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    13,
+    14,
+    130,
+    140
+  ],
+  "selection": "minimum validation log loss"
+}

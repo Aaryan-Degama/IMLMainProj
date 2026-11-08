@@ -1,0 +1,3 @@
+window_seconds,samples_per_window,windows,subjects,time_features,mixed_fraction,mean_purity,used_samples,discarded_samples
+1,50,120765,21,58,0.04526973874880967,0.9877156460895127,6038250,423078
+2,100,60214,21,58,0.080612482147009,0.9772101172484804,6021400,439928

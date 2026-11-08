@@ -1,3 +1,7 @@
 /data/harth/
 /data/harth.zip
-.venv
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store

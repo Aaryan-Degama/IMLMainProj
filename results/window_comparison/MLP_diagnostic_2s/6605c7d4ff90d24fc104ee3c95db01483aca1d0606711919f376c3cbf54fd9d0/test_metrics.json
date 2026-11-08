@@ -1,0 +1,9 @@
+{
+  "window_seconds": 2,
+  "best_epoch": 16,
+  "validation_loss": 0.247178495220313,
+  "fit_seconds": 6.994128874968737,
+  "accuracy": 0.8702126026556144,
+  "macro_f1": 0.5964682738012647,
+  "present_class_macro_f1": 0.5964682738012647
+}

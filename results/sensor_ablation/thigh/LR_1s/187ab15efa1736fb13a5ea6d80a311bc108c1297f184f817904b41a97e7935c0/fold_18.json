@@ -1,0 +1,13 @@
+{
+  "model": "LR",
+  "window_seconds": 1,
+  "fold": 18,
+  "test_subjects": "S027",
+  "train_windows": 117599,
+  "test_windows": 3166,
+  "fit_seconds": 8.984679540852085,
+  "predict_seconds": 0.005408541997894645,
+  "accuracy": 0.9797852179406191,
+  "macro_f1": 0.4146138815466403,
+  "present_class_macro_f1": 0.7107666540799549
+}

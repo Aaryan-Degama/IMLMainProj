@@ -1,0 +1,13 @@
+{
+  "model": "XGBoost",
+  "window_seconds": 2,
+  "fold": 14,
+  "test_subjects": "S023",
+  "train_windows": 58841,
+  "test_windows": 1373,
+  "fit_seconds": 15.142989875050262,
+  "predict_seconds": 0.029630959033966064,
+  "accuracy": 0.9322651128914785,
+  "macro_f1": 0.4892902530889252,
+  "present_class_macro_f1": 0.7339353796333878
+}

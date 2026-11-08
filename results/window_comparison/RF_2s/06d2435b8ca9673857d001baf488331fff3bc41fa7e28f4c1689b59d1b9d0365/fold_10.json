@@ -1,0 +1,13 @@
+{
+  "model": "RF",
+  "window_seconds": 2,
+  "fold": 10,
+  "test_subjects": "S019",
+  "train_windows": 57248,
+  "test_windows": 2966,
+  "fit_seconds": 24.362992624985054,
+  "predict_seconds": 0.03117604204453528,
+  "accuracy": 0.9571813890761969,
+  "macro_f1": 0.6166353614966466,
+  "present_class_macro_f1": 0.7399624337959758
+}

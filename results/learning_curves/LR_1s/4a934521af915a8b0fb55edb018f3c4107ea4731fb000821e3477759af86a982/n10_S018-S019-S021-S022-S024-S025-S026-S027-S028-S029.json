@@ -1,0 +1,19 @@
+{
+  "model": "LR",
+  "window_seconds": 1,
+  "train_subject_count": 10,
+  "train_subjects": "S018,S019,S021,S022,S024,S025,S026,S027,S028,S029",
+  "train_windows": 47086,
+  "validation_windows": 30089,
+  "train_class_count": 12,
+  "validation_class_count": 11,
+  "fit_seconds": 3.045150333084166,
+  "train_accuracy": 0.9371575415197724,
+  "train_macro_f1": 0.800180645703276,
+  "train_present_class_macro_f1": 0.800180645703276,
+  "train_loss": 0.1951347796400727,
+  "validation_accuracy": 0.9040180796968992,
+  "validation_macro_f1": 0.6151144725193142,
+  "validation_present_class_macro_f1": 0.67103397002107,
+  "validation_loss": 0.2947319108281992
+}
